@@ -1,0 +1,1 @@
+O Dashboard apresenta informações de mercado de ações das empresas IBM, ORACLE, MICROSOFT, TESLAS e WALMAART do ano de 2022 a 2023. A tabela no canto inferior da tela, exibe o relatório das médias dos valores de Abertura, Média do valor mais alto, média de volume e média do valor de fechamento do mercado.

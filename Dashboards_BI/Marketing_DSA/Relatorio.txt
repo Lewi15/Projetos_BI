@@ -1,0 +1,14 @@
+Esse dashboard para análise de campanhas de marketing, tem foco no comportamento e nos padrões de compra dos clientes. O relatório traz uma visão estratégica do perfil dos consumidores, desempenho das campanhas e evolução do faturamento por país e por canal de venda.
+
+Entre as principais análises, o dashboard apresenta:
+
+Relação entre salário anual e total gasto pelos clientes.
+
+Impacto de estado civil, escolaridade, filhos e adolescentes em casa no total gasto.
+
+Total de clientes por escolaridade e por estado civil.
+
+Distribuição do gasto por país, por categoria de produto e por ano.
+
+Indicadores de performance das campanhas, como quantidade de clientes que compraram ou não, média de salário por grupo e total por perfil familiar.
+
