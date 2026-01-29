@@ -1,0 +1,5 @@
+Este dashboard em Power BI apresenta uma análise financeira segmentada, com foco em receitas, despesas e margem de lucro por componente e por segmento de clientes.
+
+Ele traz indicadores principais como total de receitas, total de despesas e margem de lucro, além de segmentar a base em grupos com diferentes médias de valor e tamanhos de população. Cada segmento pode ser explorado individualmente para entender seu peso na receita e sua representatividade.
+
+O relatório também detalha o total de receitas por componente (como vendas, licenciamento, aluguéis, publicidade, investimentos e franquias) e o total de despesas por componente (por exemplo, administrativo, tecnologia, salários, impostos, segurança e marketing). Há ainda uma tabela com a decomposição de receitas e despesas por ano e tipo, permitindo acompanhar a distribuição financeira de forma mais granular.

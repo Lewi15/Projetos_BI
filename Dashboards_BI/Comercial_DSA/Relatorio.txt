@@ -1,0 +1,5 @@
+Este é um relatório de vendas em Power BI, um dashboard comercial completo que analisa performance de vendas por influenciadores, categorias, pontos de venda, regiões e vendedores individuais.
+
+A navegação inclui seções como narrativa inteligente, principais influenciadores (gráficos de bolhas comparando segmentos de clientes por índice de influência em vendas), faixa de vendas por categoria e ponto de venda (waterfall com valores como R$ 1.087.000 em eletrônicos), e performance dos vendedores por região.
+
+Outros destaques são o mapa do Brasil com distribuição de vendas por estado , gráficos de vendas por fabricante (Fabrício em destaque), por categoria (eletrônicos lideram com 48%), por segmento (pizza chart com distribuição), e barras comparando vendas totais. A narrativa inteligente resume insights como "Norte representa 28% das vendas" e "Eletrônicos têm 48% do faturamento", auxiliando na identificação de oportunidades regionais, produtos de alto desempenho e estratégias para maximizar receita.

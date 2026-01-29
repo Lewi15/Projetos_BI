@@ -1,0 +1,5 @@
+Este dashboard em Power BI apresenta uma análise de dados de RH, com foco no perfil dos funcionários e em indicadores de engajamento e disponibilidade.
+
+Ele traz métricas gerais como total de funcionários, distribuição por gênero, experiência média em anos e salário médio, permitindo uma visão rápida da força de trabalho. Também mostra o total de funcionários por função, destacando principalmente cargos da área de dados, como cientista de dados, analista de dados e engenheiro de IA.
+
+Além disso, o relatório inclui gráficos sobre o nível de envolvimento no trabalho (médio, baixo, alto e ruim) e a proporção de funcionários disponíveis para realizar hora extra. Essas informações ajudam o RH a entender melhor a composição do time, o engajamento dos colaboradores e o potencial de capacidade extra em períodos de maior demanda.

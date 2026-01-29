@@ -1,0 +1,5 @@
+Este dashboard em Power BI apresenta uma análise de desempenho das entregas, com foco em volume, pontualidade e qualidade por canal, equipe e região.
+
+Na parte superior, são exibidos o total de entregas realizadas e o total de entregas no prazo, além de um gráfico com o percentual de entregas por equipe/região, permitindo identificar quais times concentram maior participação nas operações. Há também uma tabela com o total de entregas por vendedor e respectivo rating, destacando a performance individual.
+
+Os gráficos de linha mostram o total de entregas no prazo por canal de entrega e o total de entregas por mês, ajudando a entender a sazonalidade e o comportamento dos diferentes canais ao longo do tempo. Já o gráfico de barras exibe o total de entregas por status (antecipado, no prazo e atrasado), enquanto a tabela à direita apresenta as cidades com maior número de entregas em atraso. Esse conjunto de visualizações apoia decisões voltadas à melhoria da eficiência logística e da qualidade do serviço de entrega.

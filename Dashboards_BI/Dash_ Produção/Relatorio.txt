@@ -1,0 +1,5 @@
+Este dashboard em Power BI apresenta uma análise de séries temporais da produção, mostrando a soma e a média de unidades produzidas por ano e por faixa etária de funcionários.
+
+Nos gráficos principais, é possível acompanhar a evolução das unidades produzidas entre 2018 e 2023, identificando períodos de crescimento e queda ao longo dos anos. As áreas em cinza representam o recurso de previsão do Power BI, que projeta os valores esperados para os anos seguintes com base no comportamento histórico da série.
+
+O relatório também detalha a média de unidades produzidas por ano segmentada por faixas de idade dos funcionários, permitindo entender quais grupos etários têm maior participação na produção ao longo do tempo. Com isso, o dashboard apoia decisões relacionadas a planejamento de capacidade, gestão de equipes e projeção de demanda futura na produção.
